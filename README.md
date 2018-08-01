@@ -1,8 +1,8 @@
 # Cryptocurrency
 
-Fetchs coins from 'https://https://api.coinmarketcap.com/v1/ticker/?limit=2000'
-Allows users to filter coin(s)
-Sorting by coins' name, rank, price, and change in price
+> Fetch weather data of US
+> Show location using Google Map API
+> Visualize figures
 
 ## Getting Started
 
