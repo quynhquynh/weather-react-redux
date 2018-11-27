@@ -17,12 +17,15 @@ Using npm or yarn to download packages
 Download or clone folder
 
 ```
+
 git clone https://github.com/quynhquynh/weather-react-redux.git
+
 ```
 
-Install node_modules, package 'react-router-dom' and run the page
+Install node_modules and run the page
 
 ```
 > npm install or yarn
 > npm start or yarn start
+
 ```
